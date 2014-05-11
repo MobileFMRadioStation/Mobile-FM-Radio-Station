@@ -11,7 +11,7 @@
 
 
 #Latest Application Download
-  https://github.com/masa8/MobileRadioStation/releases/tag/v0.20<BR>
+  https://github.com/MobileFMRadioStation/Mobile-FM-Radio-Station/releases<BR>
  
 #Source
  MobileRadioStation folder contains source code for application.<BR>
