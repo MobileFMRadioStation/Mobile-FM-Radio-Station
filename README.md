@@ -15,6 +15,6 @@
  
 #Source
  MobileRadioStation folder contains source code for application.<BR>
- Trasnmitter folder contains specification for transmitter.<BR>
+ Trasnmitter folder contains the specification for hardware.<BR>
  
  
